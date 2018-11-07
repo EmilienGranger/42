@@ -1,0 +1,7 @@
+Credentials cache: API:1D933F49-EFD2-4290-A946-579FE6539B91
+        Principal: egranger@42.FR
+
+  Issued                Expires               Principal
+Jul 31 17:05:19 2018  Aug  7 17:05:19 2018  krbtgt/42.FR@42.FR
+Jul 31 17:05:22 2018  Aug  7 17:05:19 2018  ldap/ldap-proxy.42.fr@42.FR
+Jul 31 17:05:22 2018  Aug  7 17:05:19 2018  HTTP/student-storage-2.42.fr@42.FR
